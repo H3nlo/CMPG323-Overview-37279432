@@ -13,8 +13,9 @@ It neatly shows when it is reccomended to start with a part of the project and w
 
 4. CMPG323-Project5-37279432 - This project is about creating a Power BI report that visualizes and monitors orders and product sales, ensuring stakeholders have access to the same information related to customer status and orders.
 
+![Diagram (1)](https://github.com/H3nlo/CMPG323-Overview-37279432/assets/111774279/f20ace70-794d-4fbb-8355-27e083d918a3)
 
-![Diagram](https://github.com/H3nlo/CMPG323-Overview-37279432/assets/111774279/be2179f5-3935-4667-8f1e-789020332f48)
+
 
 
 My branching strategy will consiste of of the following;
